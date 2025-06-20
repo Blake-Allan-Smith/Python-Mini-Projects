@@ -1,2 +1,3 @@
 # Python-Mini-Projects
-Python mini projects/assignments
+## Python Cleaning Project:
+[Link](https://github.com/Blake-Allan-Smith/Python-Mini-Projects/blob/main/python-cleaning.ipynb)
