@@ -2,7 +2,7 @@
 
 ## Project Background:
 This project analyzes data about my Steam games, which includes playtime, the amount spent on games, and the value each game provided to me. The goal of this project is to provide myself insights on trends in my gaming habits and provide recommendations for future game purchases. With the recommendations I can then find games that provide me more value and reduce the amount spent on games that I never play or spend minimal amounts of time on. 
-image
+!(Dashboard)[Python-Mini-Projects/Steam-Game-Analysis/Steam
 
 ##  Project Objectives | Personal Questions:
 - What are my most-played games on Steam?
