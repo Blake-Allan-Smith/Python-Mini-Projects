@@ -29,4 +29,4 @@ This project analyzes data about my Steam games, which includes playtime, the am
 
 ## Additional Information:
 Visit my Portfolio [Here](https://blakeallansmith.wixsite.com/portfolio).  
-Visit my Dashboard [Here](https://public.tableau.com/app/profile/blake.smith1551/viz/SteamGameAnalysis_17579241621870/Dashboard1)
+Visit my Dashboard [Here](https://public.tableau.com/app/profile/blake.smith1551/viz/SteamGameAnalysis_17579241621870/Dashboard1).
