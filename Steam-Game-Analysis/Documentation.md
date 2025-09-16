@@ -27,6 +27,6 @@ This project analyzes data about my Steam games, which includes playtime, the am
 4. Accept the fact that core games dominate my playtime at %82. However, attempt to create time slots to explore backlog games to not only give them a chance, but possibly find other games/genres that I enjoy without realizing it. 
 5. To help decrease amount of spent on games that I never played and decrease the number of games I never played, focus on improving search methods. Work on taking advantage of Steam sale events, early access trials, and games passes. I also need to take advantage of external sources like livestreams and YouTube gameplay before committing to a purchase.
 
-Additional Information:
----
+## Additional Information:
 Visit my Portfolio [Here](https://blakeallansmith.wixsite.com/portfolio).
+Visit my Dashboard [Here](https://public.tableau.com/app/profile/blake.smith1551/viz/SteamGameAnalysis_17579241621870/Dashboard1)
